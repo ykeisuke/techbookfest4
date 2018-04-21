@@ -1,0 +1,25 @@
+### Headers settings
+company: Keisuke Yamaguchi
+
+### Xcode project settings
+project_name: CreateProjectWithVIPER
+xcodeproj_path: CreateProjectWithVIPER.xcodeproj
+
+### Code generation settings section
+# The main project target name
+project_target: CreateProjectWithVIPER
+
+# The file path for new modules
+project_file_path: Modules
+
+# The Xcode group path to new modules
+project_group_path: Modules
+
+### Dependencies settings section
+podfile_path: Podfile
+
+### Templates
+templates:
+- {name: swifty_viper}
+#- {name: remote_template_name, git: 'https://github.com/igrekde/remote_template'}
+#- {name: catalog_template_name}

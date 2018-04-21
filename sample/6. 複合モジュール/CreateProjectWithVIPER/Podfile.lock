@@ -1,0 +1,15 @@
+PODS:
+  - Compass (6.0.0)
+  - DTPagerController (1.1.6)
+
+DEPENDENCIES:
+  - Compass
+  - DTPagerController
+
+SPEC CHECKSUMS:
+  Compass: ff30e2056c549ea5cb5b8a307d28ef628e4209ff
+  DTPagerController: c7603ef11678b7c00b2bda61951400736ddbfd1b
+
+PODFILE CHECKSUM: fe1e8ce566a77f0470e74dce6c7405c4540eeb7d
+
+COCOAPODS: 1.3.1
