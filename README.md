@@ -1,6 +1,6 @@
-# VIPERの産み方-1 データ集
+# VIPER Architectureの本 データ集
 
-技術書典4にて頒布した `VIPERの育て方-1` に関するデータ集です。
+技術書典4にて頒布した `VIPER Architectureの本` に関するデータ集です。
 
 ## ディレクトリ構成
 
